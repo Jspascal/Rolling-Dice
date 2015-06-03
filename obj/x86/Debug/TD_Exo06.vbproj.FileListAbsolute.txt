@@ -1,0 +1,9 @@
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\TD_Exo06\TD_Exo06\obj\x86\Debug\TD_Exo06.Form1.resources
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\TD_Exo06\TD_Exo06\obj\x86\Debug\TD_Exo06.vbproj.GenerateResource.Cache
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\TD_Exo06\TD_Exo06\bin\Debug\TD_Exo06.exe
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\TD_Exo06\TD_Exo06\bin\Debug\TD_Exo06.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\TD_Exo06\TD_Exo06\bin\Debug\TD_Exo06.xml
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\TD_Exo06\TD_Exo06\obj\x86\Debug\TD_Exo06.Resources.resources
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\TD_Exo06\TD_Exo06\obj\x86\Debug\TD_Exo06.exe
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\TD_Exo06\TD_Exo06\obj\x86\Debug\TD_Exo06.xml
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\TD_Exo06\TD_Exo06\obj\x86\Debug\TD_Exo06.pdb
